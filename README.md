@@ -25,7 +25,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py --cfg configs/wlgt/pf.yaml --repeat 3  wan
 
 For GraphGPS+WaveGC on Photo:
 
-1. Go into the folder ./wave_gps_node/datasets/, and run generate_eig.py
+1. Go into the folder ./wave_gps_node/datasets/, unzip the Amazon.zip and then run generate_eig.py
 2. Back to ./wave_gps_node/, and run the following command line
 
 ```
