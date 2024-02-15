@@ -20,7 +20,7 @@ For GraphGPS+WaveGC on PS:
 2. Run the following command line
 
 ```
-CUDA_VISIBLE_DEVICES=0 python main.py --cfg configs/wlgt/pf.yaml --repeat 3  wandb.use False
+CUDA_VISIBLE_DEVICES=0 python main.py --cfg configs/wlgt/pf.yaml --repeat 4  wandb.use False
 ```
 
 For GraphGPS+WaveGC on Photo:
